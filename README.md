@@ -1,10 +1,12 @@
 # 2019_graduationExam_01
                                                     
                                                     
-유니티를 사용하여 ngui을 사용하여 만들었던 2D 육성 게임입니다.                                    
+유니티를 사용하여 ngui을 사용하여 만들었던 2D 육성 게임입니다.                 
+
 개발기간 : 2019.03.01 ~ 2019.7.17                                      
 개발파트 : 프로그래밍                                       
-개발인원 : 7명                                           
+개발인원 : 7명                             
+                                                             
 유트브 링크 : https://www.youtube.com/watch?v=oCa8uZ6IaDg                
 기술보고서 링크 : https://drive.google.com/file/d/1DlCzUGHSBgT94r5UrSEoW8gNntr47wpl/view?usp=sharing
                                                                                                                                                                              
